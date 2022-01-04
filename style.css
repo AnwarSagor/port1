@@ -8,16 +8,20 @@ h1{
 h2{
     font-size: 30px;
 }
+p{
+    text-align: justify;
+}
 .orange-color{
     color: orange;
 }
 .flexible-container{
     display: flex;
-    margin: 150px;
+    margin: 20px;
 }
 .half-width{
     width: 50%;
     padding: 5%;
+    text-align: justify;
 }
 .half-width img{
     width: 80%;
@@ -33,6 +37,7 @@ h2{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    bord
 }
 .dream-big{
     background-image: url(images/dream-bg.png);
